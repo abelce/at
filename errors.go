@@ -1,6 +1,6 @@
 package at
 
-import "abelce/at/errors"
+import "github.com/abelce/at/errors"
 
 // BusinessError business error
 type BusinessError interface {

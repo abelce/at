@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"runtime"
 
-	"abelce/at"
+	"github.com/abelce/at"
 )
 
 var errs []JsonapiError

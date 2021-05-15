@@ -1,4 +1,4 @@
-module abelce/at
+module github.com/abelce/at
 
 go 1.14
 

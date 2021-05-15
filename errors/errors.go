@@ -1,6 +1,6 @@
 package errors
 
-import "abelce/at/errors/internal"
+import "github.com/abelce/at/errors/internal"
 
 // Error varitrip error
 type Error interface {
