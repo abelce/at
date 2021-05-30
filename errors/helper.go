@@ -3,8 +3,8 @@ package errors
 import (
 	"strings"
 
-	"github.com/abelce/at/errors/internal"
-	"github.com/abelce/at/logging"
+	"abelce/at/errors/internal"
+	"abelce/at/logging"
 )
 
 // Ensure wrap a raw error and trace

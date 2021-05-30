@@ -1,7 +1,7 @@
 package at
 
 import (
-	"github.com/abelce/at/logging"
+	"abelce/at/logging"
 )
 
 // Trace logs a message at level Trace on the standard logger.

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/abelce/at/errors"
+	"abelce/at/errors"
 )
 
 func GetWapper(st interface{}) func(path string) (interface{}, error) {
